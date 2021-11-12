@@ -17,4 +17,4 @@
 ### when changing any configuration in the Dockerfile or docker-compose you have to run `sudo docker-compose build`
 
 ## To Run The Unit Tests
-- run `./vendor/bin/phpunit ./tests/Feature/ExampleTest.php`
+- run `./vendor/bin/phpunit 
