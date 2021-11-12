@@ -1,0 +1,23 @@
+<?php 
+ return [
+'Welcome' => 'أهلا بك',
+'Total Users' => 'إجمالي المستخدمين',
+'Total Policycategories' => 'Total Policycategories',
+'Total Policysubcategories' => 'Total Policysubcategories',
+'Total Policies' => 'Total Policies',
+'Last month due installments' => 'الأقساط المتأخرة من الشهر الماضي',
+'Customer' => 'العميل',
+'Installment ID' => 'رقم القسط',
+'Total Installment' => 'إجمالي القسط',
+'Late Fees' => 'الرسوم المتأخرة',
+'Total Due' => 'الاجمالي المستحق',
+'Latest Created Mortgage Applications' => 'أحدث استمارات الرهن العقاري التي تم إنشاؤها',
+'next month installments' => 'أقساط الشهر المقبل',
+'Installments Overall Report Summary' => 'ملخص تقرير الأقساط الإجمالي',
+'Total Due Installments' => 'إجمالي الأقساط المستحقة',
+'Total Next Installments' => 'إجمالي الأقساط التالية',
+'Total Paid Installments' => 'إجمالي الأقساط المدفوعة',
+'Latest Created Payments Applications' => 'أحدث المدفوعات المُنشأة',
+'Dashboard Users' => 'مستخدمو لوحة القيادة',
+'Customers' => 'العملاء',
+];

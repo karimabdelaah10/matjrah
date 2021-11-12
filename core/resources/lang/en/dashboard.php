@@ -1,0 +1,23 @@
+<?php 
+ return [
+'Welcome' => 'Welcome',
+'Total Users' => 'Total Of Users',
+'Total Policycategories' => 'Total Of Policies Categories',
+'Total Policysubcategories' => 'Total Of Policies Sub Categories',
+'Total Policies' => 'Total Of Policies',
+'Last month due installments' => 'Last month due installments',
+'Customer' => 'Customer',
+'Installment ID' => 'Installment ID',
+'Total Installment' => 'Total Installment',
+'Late Fees' => 'Late Fees',
+'Total Due' => 'Total Due',
+'Latest Created Mortgage Applications' => 'Latest Created Mortgage Applications',
+'next month installments' => 'next month installments',
+'Installments Overall Report Summary' => 'Installments Overall Report Summary',
+'Total Due Installments' => 'Total Due Installments',
+'Total Next Installments' => 'Total Next Installments',
+'Total Paid Installments' => 'Total Paid Installments',
+'Latest Created Payments Applications' => 'Latest Created Payments Applications',
+'Dashboard Users' => 'Dashboard Users',
+'Customers' => 'Customers',
+];

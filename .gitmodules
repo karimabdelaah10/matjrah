@@ -1,0 +1,3 @@
+[submodule "core/packages/kafka"]
+	path = core/packages/kafka
+	url = https://github.com/our-edu/kafka.git

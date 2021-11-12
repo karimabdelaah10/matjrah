@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'Title' => 'Title',
+    'Address' => 'Address',
+    'Area ID' => 'Area ID',
+    'Project ID' => 'Project ID',
+    'Finishing' => 'Finishing',
+    'images' => 'images',
+    'DeleteMsg' => 'DeleteMsg',
+    'Meta Title' => 'Meta Title',
+    'Meta title' => 'Meta title',
+    'Meta Keywords' => 'Meta Keywords',
+    'Meta Description' => 'Meta Description',
+    'ID' => 'ID',
+    'Created at' => 'Created at',
+    'Type' => 'type',
+    'Description' => 'Description',
+    'min Description' => 'min Description',
+    'Price' => 'Price',
+    'Edit' => 'Edit',
+    'Attachments' => 'Attachments',
+    'Space' => 'Space',
+    'Gallery' => 'Gallery',
+];

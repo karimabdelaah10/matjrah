@@ -1,0 +1,22 @@
+<?php 
+ return [
+'URL' => 'URL',
+'Title' => 'العنوان',
+'Writer' => 'Writer',
+'Meta Title' => 'Meta Title',
+'Meta title' => 'Meta title',
+'Keywords' => 'Meta Keywords',
+'Content' => 'المحتوى',
+'Is active' => 'مفعل',
+'ID' => 'ID',
+'Is Active' => 'مفعل',
+'Created at' => 'أنشئت في',
+'DeleteMsg' => 'هل أنت متأكد أنك تريد حذف هذا العنصر ؟؟',
+'Edit' => 'تعديل',
+'Image' => 'صورة',
+'Description' => 'الوصف',
+'Category ID' => 'القسم',
+'Meta Keywords' => 'Meta Keywords',
+'Meta Description' => 'Meta Description',
+'description' => 'الوصف',
+];

@@ -1,0 +1,22 @@
+<?php 
+ return [
+'URL' => 'URL',
+'Title' => 'Title',
+'Writer' => 'Writer',
+'Meta Title' => 'Meta Title',
+'Meta title' => 'Meta title',
+'Keywords' => 'Meta Keywords',
+'Content' => 'Content',
+'Is active' => 'Is active',
+'ID' => 'ID',
+'Is Active' => 'Is Active',
+'Created at' => 'Created at',
+'DeleteMsg' => 'Are you sure that you want to delete this element ?',
+'Edit' => 'Edit',
+'Image' => 'Image',
+'Description' => 'Description',
+'Category ID' => 'Category',
+'Meta Keywords' => 'Meta Keywords',
+'Meta Description' => 'Meta Description',
+'description' => 'Description',
+];
